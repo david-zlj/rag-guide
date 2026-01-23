@@ -30,8 +30,8 @@
 - 后端框架：Python + FastAPI（异步架构，高并发）
 - ORM 层：SQLAlchemy 2.0（异步版，适配企业级数据操作）
 - RAG 核心：LangChain 1.2.4 （最新稳定版）
-- 大模型适配：Ollama（本地）、OpenAI、腾讯混元、通义千问等
-- 嵌入模型：bge-m3、bge-large、text-embedding-3等
+- 大模型适配：Ollama（本地）、Xinference（本地）、OpenAI、腾讯混元、通义千问等
+- 嵌入模型：bge-m3、bge-large-zh-v1.5、text-embedding-3等
 - 向量数据库：Milvus、Pinecone等
 - SQL 数据库：MySQL、PostgreSQL等
 - 部署适配：Docker/Docker Compose/K8S（开发 / 生产环境一键适配）
